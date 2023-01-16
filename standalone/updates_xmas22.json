@@ -1,0 +1,5 @@
+{"currentcount": 0,"hasStorm": false,"players": []
+,"isThundering": true,"confighash": -1224238664,"servertime": 375,"updates": [{"type": "daynight","isday": true,"timestamp": 1673813964212}
+,{"msg": "markerupdated","x": 220.00,"y": 65.00,"z": 751.00,"id": "_spawn_xmas22","label": "Spawn","icon": "world","set": "markers","markup": true,"desc": null,"dim": "16x16","minzoom": -1,"maxzoom": -1,"ctype": "markers","type": "component","timestamp": 1673813974311}
+]
+,"timestamp": 1673813979213}

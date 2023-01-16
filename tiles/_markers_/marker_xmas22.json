@@ -1,0 +1,21 @@
+{"sets": {"offline_players": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Offline","markers": {}
+,"lines": {}
+,"layerprio": 0,"minzoom": 0}
+,"spawn_beds": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Spawn Beds","markers": {}
+,"lines": {}
+,"layerprio": 0,"minzoom": 0}
+,"markers": {"hide": false,"circles": {}
+,"areas": {"_worldborder_xmas22": {"fillcolor": "#000000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [0.00,1024.00,1024.00,0.00]
+,"weight": 3,"z": [0.00,0.00,1024.00,1024.00]
+,"ybottom": 64.00,"label": "Border","opacity": 0.80,"fillopacity": 0.00}
+}
+,"label": "Markers","markers": {"_spawn_xmas22": {"markup": false,"x": 220.00,"icon": "world","y": 65.00,"dim": "16x16","z": 751.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1673820794743}
